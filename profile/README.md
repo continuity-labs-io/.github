@@ -1,4 +1,4 @@
-# Continuity Labs
+# Continuum
 
 **The Continuous Physics Engine for Living Tissue**
 
